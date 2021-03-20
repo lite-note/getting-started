@@ -1,9 +1,9 @@
-# Taking notes with Lite Note
+# ✏ Taking notes with Lite Note
 
-## README.md is the main file
+## 👆🏽 README.md is the main file
 
 Your notes must start with a README.md file. Lite note will display this first note as the homepage.
 
-## There are special folders
+## 🎇 There are special folders
 
 Before having beautiful notes, we create first fleeting notes and drafts. We can put them in [fleeting-notes](https://litenote.space/lite-note/getting-started/fleeting-notes) and `drafts` folders. We can access later from the header in Lite Note.
