@@ -10,4 +10,4 @@
 
 ## Taking notes on Lite Note
 
-Lite note provides multiples rules to [simplify and organize notes](./notes/README.md).
+Lite note provides multiples rules to [simplify and organize notes](./notes/taking-lite-note.md).
