@@ -10,6 +10,6 @@ Create a `.litenote.json` file in your repository folder. Lite note will use it 
 }
 ```
 
-| property   | possible values                                                        |
-| ---------- | ---------------------------------------------------------------------- |
-| fontFamily | Courgette, IBM Plex Serif, Kiwi Maru, Maven Pro, Noto Sans KR, Tajawal |
+| property   | default value | possible values                                                                       |
+| ---------- | ------------- | ------------------------------------------------------------------------------------- |
+| fontFamily | Courier Prime | Courier Prime, Courgette, IBM Plex Serif, Kiwi Maru, Maven Pro, Noto Sans KR, Tajawal |
