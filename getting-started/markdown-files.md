@@ -5,9 +5,11 @@
 
 Indeed, [Markdown](https://daringfireball.net/projects/markdown/) files are easy to write and is ideal for atomic notes.
 
-# What can we do in Markdown?
+## What can we do in Markdown?
 
 Emphased texts, bold texts, headers, lists, task lists, images, tables, quotes, codes. We have all we need to organise our notes.
+
+---
 
 ## References
 
