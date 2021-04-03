@@ -4,4 +4,4 @@ Notes are identified by their "[SHA](https://en.wikipedia.org/wiki/Secure_Hash_A
 
 Therefor, when you share an URL, you'll be assure that everyone will see the same note you wanted to share, even after the note was updated.
 
-**Attention**: the homepage of note will always be the latest README file in the repository, so the links in it will be updated to the latest version.
+**Attention**: the homepage of note will always be the latest [README.md](../getting-started/markdown-files.md) file in the repository, so the links in it will be updated to the latest version.

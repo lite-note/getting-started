@@ -2,7 +2,7 @@
 
 Lite note is used to display efficiently notes. To edit them, you can simply use a text editor.
 
-Here are 3 excellents text editors with extensions for writing [Markdown](./markdown-files.md) files:
+Here are 3 excellent text editors with extensions for writing [Markdown](./markdown-files.md) files:
 
 - [VS Code](https://code.visualstudio.com/)
   - useful extensions:
@@ -19,3 +19,5 @@ Here are 3 excellents text editors with extensions for writing [Markdown](./mark
     - [Language Markdown](https://atom.io/packages/language-markdown)
     - [Markdown Preview Plus](https://atom.io/packages/markdown-preview-plus)
     - [Markdown Table Editor](https://atom.io/packages/markdown-table-editor)
+
+Then you must save your notes somewhere. With Lite Note, you can use [git and GitHub](../repo/git.md).
