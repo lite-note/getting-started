@@ -10,7 +10,7 @@ Before having beautiful notes, we create first fleeting notes and drafts but bec
 
 So Lite Note has 2 special folders:
 
-- [fleeting-notes](https://litenote.space/lite-note/getting-started/fleeting-notes)
+- [inbox](https://litenote.space/lite-note/getting-started/inbox)
 - [drafts](https://litenote.space/lite-note/getting-started/drafts)
 
 They are available in the header.
