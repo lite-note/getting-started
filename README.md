@@ -1,5 +1,9 @@
 # Lite Note
 
+Hi! Welcome to **Lite Note**. Lite Note main goal is to provide a simple yet effective way to display your note. See below the `getting started` guide to start writing notes that can be display later on Lite Note.
+
+This web app was heavily inspired by [Andy Matuschak's website](https://notes.andymatuschak.org/About_these_notes).
+
 ## Getting started
 
 1. Take notes with a [text editor](./getting-started/text-editor.md)

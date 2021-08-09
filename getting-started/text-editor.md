@@ -6,8 +6,10 @@ Here are 3 excellent text editors with extensions for writing [Markdown](./markd
 
 - [VS Code](https://code.visualstudio.com/)
   - useful extensions:
+    - [Lite Note official extension](https://marketplace.visualstudio.com/items?itemName=LiteNote.lite-note)
     - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
     - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+    - [Count characters](https://marketplace.visualstudio.com/items?itemName=stevensona.character-count)
 - [Sublime Text](https://www.sublimetext.com/)
   - useful extensions:
     - [MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing)
