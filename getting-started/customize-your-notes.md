@@ -1,6 +1,6 @@
 # Customize your notes
 
-Create a `.litenote.json` file in your repository folder. Lite note will use it customize your experience.
+Create a `.litenote.json` file in your repository folder. Lite note will use it to customize your experience.
 
 `.litenote.json` example:
 
