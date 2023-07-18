@@ -15,3 +15,4 @@ Create a `.litenote.json` file in your repository folder. Lite note will use it 
 | ---------- | ------------- | -------------------------------------------------------------------------------------------- |
 | fontFamily | Courier Prime | Courier Prime, Courgette, IBM Plex Serif, Kiwi Maru, Maven Pro, Noto Sans KR, Tajawal, Amiri, Gowun Batang, Gentium Book Plus, Montagu Slab |
 | mode       | light         | light, dark                                                                                  |
+| backlink   | false         | true, false                                                                                  |
