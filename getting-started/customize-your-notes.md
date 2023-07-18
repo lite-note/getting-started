@@ -7,7 +7,8 @@ Create a `.litenote.json` file in your repository folder. Lite note will use it 
 ```json
 {
   "fontFamily": "Courgette",
-  "mode": "light"
+  "mode": "light",
+  "backlink": false
 }
 ```
 
