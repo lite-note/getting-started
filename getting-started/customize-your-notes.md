@@ -13,6 +13,6 @@ Create a `.litenote.json` file in your repository folder. Lite note will use it 
 
 | property   | default value | possible values                                                                              |
 | ---------- | ------------- | -------------------------------------------------------------------------------------------- |
-| fontFamily | Courier Prime | Courier Prime, Courgette, IBM Plex Serif, Kiwi Maru, Maven Pro, Noto Sans KR, Tajawal, Amiri, Gowun Batang, Gentium Book Plus, Montagu Slab |
+| fontFamily | Courier Prime | Courier Prime, Courgette, IBM Plex Serif, Kiwi Maru, Maven Pro, Noto Sans KR, Tajawal, Amiri, Gowun Batang, Montagu Slab |
 | mode       | light         | light, dark                                                                                  |
 | backlink   | false         | true, false                                                                                  |
